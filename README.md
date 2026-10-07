@@ -10,7 +10,7 @@
 2. **不要刪除 `.git`，也不要重新 `git init`。** 題目原本的 commit 歷史也是評分內容。
 3. 在 `SUBMISSION.md` 填寫學號與姓名。
 4. 依序完成下面四個工作。
-5. 建立自己的 **Public GitHub Repository**，名稱請使用 `git-quiz-學號`。
+5. 建立自己的 **Public GitHub Repository**，名稱請使用 `git-quiz1-學號`。
 6. 將完成後的專案與完整 commit 歷史推送到自己的 Repository。
 7. 最後只需繳交自己的 GitHub Repository 網址。
 
